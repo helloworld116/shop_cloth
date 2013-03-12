@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ProductDetailViewController initGoods]:ProductDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "interfaceURLString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController flowView:cellForRowAtIndexPath:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductWithoutButtonsViewController flowView:heightForRowAtIndexPath:]:ProductWithoutButtonsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController flowView:willLoadData:]:ProductViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController removeAllViews]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.container subviews]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductDetailViewController pageAtIndex:]:ProductDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.images objectAtIndex:index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterflowView scrollViewWillBeginDragging:]:WaterflowView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductDetailViewController backUp]:ProductDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController viewDidLoad]:CategoryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[IndexViewController initNews]:IndexViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterflowView initialize]:WaterflowView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController newProduct:]:ProductViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterflowView reloadData]:WaterflowView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterflowView pageScroll]:WaterflowView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[self.cellHeight objectAtIndex:i] count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController category:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.container.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController flowView:cellForRowAtIndexPath:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
